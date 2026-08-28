@@ -60,3 +60,11 @@ Before analysis, the datasets were reviewed and cleaned to improve consistency a
 - **Mortality:** Acute myocardial infarction (48 deaths) and end-stage renal disease (46 deaths) were the leading causes of mortality in the dataset.
 
 - **High-Risk Patients:** Among the highest-cost care-management patients, those classified as "Very High" risk were concentrated toward the top of the cost distribution and lower goal attainment, identifying a clear group for targeted intervention.
+
+## Dashboard Preview
+
+The interactive Excel workbook brings the analysis together through dashboards and slicer-driven visuals, allowing users to explore healthcare claims, patient demographics, billing, medication adherence, care management, and mortality patterns.
+
+### Executive Dashboard
+
+![Executive Dashboard](images/executive-dashboard.png)
