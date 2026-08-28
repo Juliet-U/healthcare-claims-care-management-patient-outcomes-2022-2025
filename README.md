@@ -6,3 +6,40 @@ This project analyzes approximately 400,000 healthcare records across five linke
 The analysis explores patient demographics, medical conditions, healthcare claims, billing and denials, medication adherence, care management outcomes, and mortality.
 
 The goal was to identify meaningful patterns and translate the findings into insights that could support patient care, resource allocation, and billing efficiency.
+
+## Analytical Areas
+
+The analysis covered 10 key areas:
+
+1. **Patient Demographics** — Insurance distribution, claim volume, billed amounts, denial rates, and care management participation.
+
+2. **Medical Conditions** — Frequency of ICD-10 diagnosis codes and Pareto analysis of the most common conditions.
+
+3. **Claim & Admission Trends** — Monthly claim volume across different claim types from 2022–2025.
+
+4. **Billing Performance by Payer** — Comparison of average billed and paid amounts across insurance payers.
+
+5. **Denial Analysis** — Distribution of claim denial reasons and identification of major denial categories.
+
+6. **Diagnostic Results** — Analysis of abnormal diagnostic results across test categories.
+
+## Data & Data Preparation
+
+The project used five linked administrative and clinical datasets covering approximately 10,000 patients and 400,000 records from 2022–2025.
+
+Before analysis, the datasets were reviewed and cleaned to improve consistency and reliability. Key data preparation steps included:
+
+- Standardising inconsistent gender labels such as "M", "Male", and "MALE"
+- Converting mixed date formats into consistent date values
+- Converting currency fields stored as text into numeric values
+- Flagging impossible values, including invalid ages and adherence rates
+- Handling missing values in categorical and numerical fields
+- Identifying potential duplicate claims using patient, service date, and procedure information
+
+8. **Medication & Adherence** — Prescription volume, medication adherence (PDC), and drug costs across drug classes.
+
+9. **Care Management Outcomes** — Risk scores, goals met, and readmission rates across care management programmes.
+
+10. **Mortality Analysis** — Leading causes of mortality, including patterns by age group and state.
+
+11. **High-Risk & High-Cost Patients** — Identification of high-cost care management patients by programme and risk level.
