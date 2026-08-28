@@ -67,4 +67,4 @@ The interactive Excel workbook brings the analysis together through dashboards a
 
 ### Executive Dashboard
 
-![Executive Dashboard](images/executive-dashboard.png)
+![Executive Dashboard](executive-dashboard.png)
