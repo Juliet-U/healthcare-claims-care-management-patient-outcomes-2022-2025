@@ -68,3 +68,6 @@ The interactive Excel workbook brings the analysis together through dashboards a
 ### Executive Dashboard
 
 ![Executive Dashboard](executive-dashboard.png)
+### Clinical Dashboard
+
+![Clinical Dashboard](clinical-dashboard.png)
