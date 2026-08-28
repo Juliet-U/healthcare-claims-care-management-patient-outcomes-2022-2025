@@ -43,3 +43,20 @@ Before analysis, the datasets were reviewed and cleaned to improve consistency a
 10. **Mortality Analysis** — Leading causes of mortality, including patterns by age group and state.
 
 11. **High-Risk & High-Cost Patients** — Identification of high-cost care management patients by programme and risk level.
+
+## Tools & Techniques
+
+- **Microsoft Excel** — Data cleaning, PivotTables, formulas, charts, dashboards, and interactive slicers.
+- **Data Analysis** — Trend analysis, Pareto analysis, comparative analysis, correlation analysis, and KPI analysis.
+
+  ## Key Findings
+
+- **Claims & Denials:** Eligibility- and coverage-related denials accounted for 1,888 of 7,393 total denials (approximately 26%), highlighting an opportunity for stronger front-end eligibility and coverage verification.
+
+- **Medication Adherence:** Average adherence across the top 10 drug classes ranged from 76.1% to 77.7%, consistently below the 80% target. The pattern suggests that the adherence gap was not isolated to one drug class.
+
+- **Care Management:** Risk Score and Goals Met % showed a negative correlation of -0.76. Chronic Kidney Disease and Heart Failure Management had the highest average risk scores and lowest goal-completion rates.
+
+- **Mortality:** Acute myocardial infarction (48 deaths) and end-stage renal disease (46 deaths) were the leading causes of mortality in the dataset.
+
+- **High-Risk Patients:** Among the highest-cost care-management patients, those classified as "Very High" risk were concentrated toward the top of the cost distribution and lower goal attainment, identifying a clear group for targeted intervention.
